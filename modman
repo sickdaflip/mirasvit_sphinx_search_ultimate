@@ -1,4 +1,4 @@
-app/code/local/*                                                app/code/local/
+app/code/local/Mirasvit/*                                       app/code/local/Mirasvit/
 app/design/adminhtml/default/default/layout/mstcore.xml         app/design/adminhtml/default/default/layout/mstcore.xml
 app/design/adminhtml/default/default/layout/searchindex.xml     app/design/adminhtml/default/default/layout/searchindex.xml
 app/design/adminhtml/default/default/template/cms/widget/static_block/default.phtml app/design/adminhtml/default/default/template/cms/widget/static_block/default.phtml
