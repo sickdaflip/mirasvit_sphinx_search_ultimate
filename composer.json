@@ -1,0 +1,14 @@
+{
+  "name": "sickdaflip/mirasvit_sphinx_search_ultimate",
+  "type": "magento-module",
+  "license": "MIT",
+  "description": "Magento 1.9.3. Module",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Mirasvit"
+    }
+  ]
+}
