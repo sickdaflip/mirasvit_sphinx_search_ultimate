@@ -4,5 +4,10 @@
             <active>true</active>
             <codePool>local</codePool>
         </Mirasvit_SearchIndex>
+        <Mana_Filters>
+            <depends>
+                <Mirasvit_SearchIndex />
+            </depends>
+        </Mana_Filters>
     </modules>
 </config>
