@@ -2,7 +2,7 @@
 <layout version="0.1.0">
     <default>
         <reference name="head">
-            <action method="addJs" ifconfig="searchautocomplete/general/enabled"><script>mirasvit/core/jquery.min.js</script></action>
+            <!--action method="addJs" ifconfig="searchautocomplete/general/enabled"><script>mirasvit/core/jquery.min.js</script></action-->
             <action method="addJs" ifconfig="searchautocomplete/general/enabled"><script>mirasvit/core/underscore.js</script></action>
             <action method="addJs" ifconfig="searchautocomplete/general/enabled"><script>mirasvit/core/backbone.js</script></action>
             <action method="addJs" ifconfig="searchautocomplete/general/enabled"><script>mirasvit/code/searchautocomplete/form.js</script></action>
